@@ -1,4 +1,6 @@
 *.pdf
+*.ppt
+*.pptx
 
 # Package Files #
 *.jar
@@ -47,3 +49,4 @@ node_modules/
 package-lock.json
 *.git
 pdf/
+ppt/
